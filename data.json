@@ -1,0 +1,25 @@
+{
+  "languages": ["Java", "c#", "Pyhton"],
+  "student": {
+    "id": 123,
+    "name": "john",
+    "phone": "123456",
+    "age": "21",
+    "languages": ["Java", "c#", "Pyhton"]
+  },
+  "orderBook": {
+    "BuyOrders": [
+      {
+        "OrderType": "LimitBid",
+        "Price": 497.02,
+        "Volume": 0.01
+      },
+      {
+        "OrderType": "LimitBid",
+        "Price": 490.00,
+        "Volume": 1.00      
+      }
+    ],
+    
+  }
+}
